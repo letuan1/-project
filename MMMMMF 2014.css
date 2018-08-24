@@ -1,0 +1,37 @@
+.anh1{
+    background-image: url("background_2014.jpg");
+    font-family: 'Montserrat', sans-serif;
+}
+
+.test{
+    font-weight: 300;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 72px;
+}
+
+
+@media (max-width: 600px) {
+    .test {
+        margin-bottom: 5px;
+        font-size: 12px;
+
+    }
+}
+
+.xhi {
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .xhi {
+        font-size: 15px
+    }
+}

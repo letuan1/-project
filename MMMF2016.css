@@ -1,0 +1,81 @@
+.ann{
+    background-image: url("2016.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    background-position: top;
+
+}
+.xhi{
+    color:white;
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.cs{
+    margin-top: 200px;
+    background-size: 80%;
+    font-family: 'Montserrat', sans-serif;
+}
+.sss {
+    color: white;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.size {
+    font-size: 15px;
+    color: white;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+@media only screen and (max-width: 600px) {
+    p {
+        font-size: 12px
+    }
+}
+@media only screen and (max-width: 600px) {
+    .xhi {
+        font-size: 15px
+    }
+}
+
+h2{
+    font-size: 75px;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+}
+@media only screen and (max-width: 600px) {
+    h2 {
+        font-size: 30px;
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+@media only screen and (max-width: 600px) {
+    h3 {
+        font-size: 18px;
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+.mb-180 {
+    margin-bottom: 200px;
+}
+
+@media (max-width: 600px) {
+    .mb-180 {
+        margin-bottom: 60px;
+    }
+}
